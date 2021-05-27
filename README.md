@@ -1,2 +1,2 @@
-# sample1
-angrybird
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
